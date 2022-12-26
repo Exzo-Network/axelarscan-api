@@ -109,14 +109,11 @@ mainnet:
             - "https://fantom-mainnet.public.blastapi.io"
             - "https://1rpc.io/ftm"
             - "https://rpc.ankr.com/fantom"
-      moonbeam:
-        chain_id: 1284
+      exzonetwork:
+        chain_id: 1229
         endpoints:
           rpc:
-            - "https://rpc.api.moonbeam.network"
-            - "https://moonbeam.public.blastapi.io"
-            - "https://1rpc.io/glmr"
-            - "https://rpc.ankr.com/moonbeam"
+            - "https://mainnet.exzo.technology"
       aurora:
         chain_id: 1313161554
         endpoints:
